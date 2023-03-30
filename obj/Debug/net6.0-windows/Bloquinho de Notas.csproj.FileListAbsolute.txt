@@ -1,0 +1,17 @@
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\bin\Debug\net6.0-windows\Bloquinho de Notas.exe
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\bin\Debug\net6.0-windows\Bloquinho de Notas.deps.json
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\bin\Debug\net6.0-windows\Bloquinho de Notas.runtimeconfig.json
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\bin\Debug\net6.0-windows\Bloquinho de Notas.dll
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\bin\Debug\net6.0-windows\Bloquinho de Notas.pdb
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\obj\Debug\net6.0-windows\Bloquinho de Notas.csproj.AssemblyReference.cache
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\obj\Debug\net6.0-windows\Bloquinho_de_Notas.Form1.resources
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\obj\Debug\net6.0-windows\Bloquinho de Notas.csproj.GenerateResource.cache
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\obj\Debug\net6.0-windows\Bloquinho de Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\obj\Debug\net6.0-windows\Bloquinho de Notas.AssemblyInfoInputs.cache
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\obj\Debug\net6.0-windows\Bloquinho de Notas.AssemblyInfo.cs
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\obj\Debug\net6.0-windows\Bloquinho de Notas.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\obj\Debug\net6.0-windows\Bloquinho de Notas.dll
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\obj\Debug\net6.0-windows\refint\Bloquinho de Notas.dll
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\obj\Debug\net6.0-windows\Bloquinho de Notas.pdb
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\obj\Debug\net6.0-windows\Bloquinho de Notas.genruntimeconfig.cache
+C:\Users\Guilherme.Cavazzana\OneDrive - American Tower\Documents\Projetos\Bloquinho de Notas\Bloquinho de Notas\obj\Debug\net6.0-windows\ref\Bloquinho de Notas.dll
